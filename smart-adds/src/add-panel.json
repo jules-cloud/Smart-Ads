@@ -1,0 +1,68 @@
+[
+    {
+        "position" : {
+            "lat" : 45.649727001436645, "lng": 0.14411331525268523
+        },
+        "containerName" : "panneau1",
+        "containerData" : [
+            {
+                "dataName": "Vidéo 1",
+                "dataContent": ""
+            }, 
+            {
+                "dataName": "Vidéo 2",
+                "dataContent": ""
+            }
+        ]
+    },
+    {
+        "position" : {
+            "lat" : 45.651886936056925, "lng": 0.1629531513732907
+        },
+        "containerName" : "panneau2",
+        "containerData" : [
+            {
+                "dataName": "Vidéo 1",
+                "dataContent": ""
+            }, 
+            {
+                "dataName": "Vidéo 2",
+                "dataContent": ""
+            }, 
+            {
+                "dataName": "Vidéo 3",
+                "dataContent": ""
+            },
+            {
+                "dataName": "Vidéo 4",
+                "dataContent": ""
+            }
+        ]
+    },
+    {
+        "position" : {
+            "lat" : 45.64255662130229, "lng": 0.16102196088256804
+        },
+        "containerName" : "panneau3",
+        "containerData" : [{
+            "dataName": "Vidéo 1",
+            "dataContent": ""
+        }, {
+            "dataName": "Vidéo 2",
+            "dataContent": ""
+        }, {
+            "dataName": "Vidéo 3",
+            "dataContent": ""
+        }]
+    },
+    {
+        "position" : {
+            "lat" : 45.64153649265286, "lng": 0.1567304264587399
+        },
+        "containerName" : "panneau4",
+        "containerData" : [{
+            "dataName": "Vidéo 1",
+            "dataContent": ""
+        }]
+    }
+]
